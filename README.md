@@ -17,6 +17,9 @@
   <a href="https://github.com/aditya7balotra/IRcopy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya7balotra&repo=IRcopy&theme=tokyonight" />
   </a>
+  <a href="https://github.com/aditya7balotra/rubik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya7balotra&repo=rubik&theme=tokyonight" />
+  </a>
   <a href="https://github.com/aditya7balotra/DigitalClock">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya7balotra&repo=DigitalClock&theme=tokyonight" />
   </a>
